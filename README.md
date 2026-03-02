@@ -6,7 +6,7 @@ An AI-powered Business Intelligence agent that answers founder-level queries aga
 
 ## 🚀 Live Demo
 
-> **Hosted URL:** `https://your-app.streamlit.app` *(replace after deployment)*
+> **Hosted URL:** `https://biagent.streamlit.app
 
 > **Monday.com Boards:**
 > - Deals Board: `https://your-workspace.monday.com/boards/DEALS_BOARD_ID`
@@ -33,7 +33,7 @@ bi-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/bi-agent.git
+git clone https://github.com/basil-123/bi_agent.git
 cd bi-agent
 ```
 
